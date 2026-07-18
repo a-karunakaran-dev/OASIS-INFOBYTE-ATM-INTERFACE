@@ -177,12 +177,14 @@ Transfer     : ₹1000
 
 ---
 
+---
+
 <div align="center">
 
-## ⭐ Support
+⭐ Thank you for visiting this repository!
 
-If you found this project useful, please consider **starring ⭐ this repository**.
+If you found this project useful, please consider giving it a ⭐.
 
-Made with ❤️ using Java
+Made with ❤️ in Java by **Karunakaran A**
 
 </div>
