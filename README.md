@@ -16,7 +16,7 @@
 
 ### 💳 Console-Based ATM Simulation using Java
 
-> Developed as part of the **Oasis Infobyte Java Development Internship**
+Developed as part of the **Oasis Infobyte Java Development Internship
 
 </div>
 
