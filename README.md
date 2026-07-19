@@ -91,7 +91,7 @@ PIN     : 9363
 ### Clone Repository
 
 ```bash
-git clone https://github.com/a-karunakaran-dev/OASIS-INFOBYTE-ATM-INTERFACE.git
+https://github.com/a-karunakaran-dev/OASIS-INFOBYTE-ATM-INTERFACE
 ```
 
 ### Run the Project
